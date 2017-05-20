@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Heroes_Of_The_Stroms.unity
+  isLoaded: 1
+  isActive: 1
